@@ -1,4 +1,10 @@
-# PySocksipyChain #
+# SocksChain
+
+This is a fork of [PySocksipyChain](https://github.com/pagekite/PySocksipyChain) with slight tweaks to [fix a bug](https://github.com/pagekite/PySocksipyChain/pull/12) and so I could publish it to PyPi under the name `sockschain`. I am using this in a docker container.
+
+Thank you [Bjarni R. Einarsson](https://github.com/BjarniRunar)!
+
+## PySocksipyChain ##
 
 This is a modified version of socksipy, which supports arbitrary chaining of
 proxy servers and various modes of TLS/SSL encryption.
@@ -13,7 +19,7 @@ details.
 
 
 -------------------------------------------------------------------------------
-# Original README #
+## Original README ##
 
 <pre>
 SocksiPy version 1.00

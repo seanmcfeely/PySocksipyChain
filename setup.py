@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 from setuptools import setup
+setup()
 
+'''OLD SETUP.PY
 VERSION = "2.1.2"
 
 setup(
@@ -25,3 +27,4 @@ TLS/SSL encryption if the OpenSSL modules are installed.
      }
 )
 
+'''
